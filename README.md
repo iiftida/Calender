@@ -1,5 +1,5 @@
 # Calender
-Mobile App Development
+Mobile App Development Project
 
 Group mates: 
 1. Iftida Isaba
@@ -7,6 +7,6 @@ Group mates:
 2. Sharmila Tabassum
    ID: 011183100
    
-We have create this simple calender aoo using kotlin. 
+We have create this simple calender app using kotlin. 
 Every requirments is present in this project. 
-The demo video will show how the system works
+The Demo video will show how the system works.
